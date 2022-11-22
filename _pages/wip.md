@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:
+title: WIP
 excerpt:
 author_profile: true
 redirect_from: 
