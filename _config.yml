@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aarti Malik"
 title_separator          : "-"
 name                     : &name "Aarti Malik"
-description              : &description "Research Professional, The Booth School of Business, University of Chicago"
+description              : &description "Senior Research Specialist, Princeton University"
 url                      : https://aartimalik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aartimalik/aartimalik.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aarti Malik"
   avatar           : "aarti_web.jpeg"
-  bio              : "Research Professional, The Booth School of Business, University of Chicago"
+  bio              : "Senior Research Specialist, Princeton University"
   location         : 
   employer         : 
   pubmed           : 
